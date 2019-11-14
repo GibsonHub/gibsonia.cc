@@ -8,7 +8,7 @@
 /node_modules
 
 # keys and such
-/src/environments
+#/src/environments
 
 # compodoc documentation
 /documentation
